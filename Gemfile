@@ -46,6 +46,7 @@ gem 'webpacker', '5.2.1'
 gem 'turbolinks', '5.2.1'
 gem 'jbuilder', '2.11.2'
 gem 'bootsnap', '1.7.3', require: false
+gem 'rexml', '3.2.5'
 
 group :production do
   gem 'pg', '~> 1.1'
