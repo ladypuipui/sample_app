@@ -12,6 +12,7 @@ gem 'jbuilder', '2.11.2'
 gem 'bootsnap', '1.7.3', require: false
 gem 'bootstrap-sass', '3.4.1'
 gem 'rexml'
+gem 'bcrypt',         '3.1.13'
 
 group :production do
   gem 'pg', '~> 1.1'
